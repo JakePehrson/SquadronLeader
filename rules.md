@@ -70,10 +70,10 @@ This image shows a situation where the white plane can shoot at the yellow plane
 
 - The defender may reroll 1 die if they are within the furthest section of the range ruler
 - The attacker may reroll 1 dice if they are within the closest section of the range ruler
-- If the defender is within the forward firing guies, the attacker may reroll 1 die
-- An attcker with a greater altitude to the defender may reroll 1 die
+- If the defender is within the forward firing guides, the attacker may reroll 1 die
+- An attacker with a greater altitude to the defender may reroll 1 die
 
-If multiple abilities allow you to reroll a die, you can reroll that many dice, even if its the same dicebeing rolled multple times.
+If multiple abilities allow you to reroll a die, you can reroll that many dice, even if it's the same dice being rolled multple times.
 
 ## Altitude rule
 
